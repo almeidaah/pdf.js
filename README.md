@@ -134,3 +134,8 @@ File an issue:
 Follow us on twitter: @pdfjs
 
 + https://twitter.com/pdfjs
+
+
+test
+
+https://github.com/almeidaah/pdf.js/blob/f87dc42780d9aaefe3b3c01c1127d88d05ac5763/web/pdf_find_controller.js#L115-L117
